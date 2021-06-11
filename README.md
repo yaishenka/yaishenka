@@ -4,7 +4,7 @@
 
 :mortar_board: MIPT SAMCS bachelor 2022
 
-:man_technologist: Currently working at [SkyDrones](https://sky-drones.com)
+:man_technologist: SWE at [Yandex](http://yandex.ru/)
 
 :computer: Languages: Python, C, C++, SQL, QML, Java
 
