@@ -6,6 +6,8 @@
 
 :man_technologist: SWE at [Yandex](http://yandex.ru/)
 
+:man_teacher: C++ teacher ad MIPT
+
 :computer: Languages: Python, C, C++, SQL, QML, Java
 
 :desktop_computer: Frameworks: Django, QT; Tools: Docker, Git, nginx, gtest
