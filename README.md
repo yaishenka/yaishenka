@@ -6,7 +6,7 @@
 
 :man_technologist: SWE at [Yandex](http://yandex.ru/)
 
-:man_teacher: C++ teacher at MIPT
+:man_teacher: C++ and programming technologies teacher at MIPT
 
 :computer: Languages: Python, C, C++, SQL, QML, Java
 
