@@ -4,7 +4,7 @@
 
 :mortar_board: MIPT SAMCS bachelor 2022
 
-:man_technologist: SWE at [Yandex](http://yandex.ru/)
+:man_technologist: SWE at [Yandex SDG](https://sdg.yandex.com)
 
 :man_teacher: C++ lecturer 
 
