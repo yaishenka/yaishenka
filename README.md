@@ -8,7 +8,7 @@
 
 :man_teacher: C++ lecturer 
 
-:computer: Languages: Python, C, C++, SQL, QML, Java
+:computer: Languages: Python, C, C++, SQL, QML
 
 :desktop_computer: Frameworks: Django, QT; Tools: Docker, Git, nginx, gtest
 
