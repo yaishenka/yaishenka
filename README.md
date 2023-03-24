@@ -2,7 +2,7 @@
 
 :man: Daniil Gagarinov
 
-:mortar_board: MIPT SAMCS bachelor 2022
+:mortar_board: MIPT PSAMI bachelor 2022
 
 :man_technologist: SWE at [Yandex SDG](https://sdg.yandex.com)
 
