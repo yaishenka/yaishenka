@@ -4,9 +4,9 @@
 
 :mortar_board: MIPT PSAMI bachelor 2022
 
-:man_technologist: SWE at [Yandex SDG](https://sdg.yandex.com)
+:man_technologist: Senior dev at [VK](https://tech.vk.com)
 
-:man_teacher: C++ lecturer 
+:man_teacher: C++ lecturer at HSSE MIPT 
 
 :computer: Languages: Python, C, C++, SQL, QML
 
