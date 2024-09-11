@@ -8,7 +8,7 @@
 
 :man_teacher: C++ lecturer at HSSE MIPT 
 
-:computer: Languages: Python, C, C++, SQL, QML
+:computer: Languages: C++, C, Python, Go, SQL
 
 :desktop_computer: Frameworks: Django, QT; Tools: Docker, Git, nginx, gtest
 
