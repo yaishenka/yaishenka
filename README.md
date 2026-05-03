@@ -4,7 +4,7 @@
 
 :mortar_board: MIPT PSAMI bachelor 2022
 
-:man_technologist: Senior dev at [Yandex](https://yandex.ru/company/about)
+:man_technologist: Senior dev at [Yandex](https://yandex.ru/company/about)/[YTsaurus](https://ytsaurus.tech/)
 
 :man_teacher: C++ lecturer at HSSE MIPT 
 
