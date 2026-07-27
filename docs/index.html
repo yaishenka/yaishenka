@@ -34,6 +34,29 @@
       --display: 'Space Grotesk', var(--sans);
     }
 
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg:        #0d0f16;
+        --surface:   #161a24;
+        --ink:       #e9ecf4;
+        --ink-soft:  #a3abbd;
+        --ink-faint: #6d7688;
+        --line:      #262c3a;
+        --line-soft: #1c2130;
+        --brand:     #6366f1;
+        --brand-2:   #8b5cf6;
+        --brand-3:   #22d3ee;
+        --brand-ink: #a5b4fc;
+      }
+      body { background-image:
+        radial-gradient(900px 500px at 15% -10%, rgba(99,102,241,0.10), transparent 60%),
+        radial-gradient(700px 400px at 100% 110%, rgba(139,92,246,0.10), transparent 55%); }
+      .card { box-shadow: 0 1px 2px rgba(0,0,0,0.4), 0 24px 60px -24px rgba(0,0,0,0.7); }
+      .avatar img { box-shadow: 0 0 0 1px var(--line), 0 14px 30px -12px rgba(0,0,0,0.7); }
+      .socials img { filter: grayscale(1) brightness(1.6); opacity: 0.55; }
+      .socials a:hover img { filter: none; opacity: 1; }
+    }
+
     * { box-sizing: border-box; margin: 0; padding: 0; }
     html { scroll-behavior: smooth; }
 
