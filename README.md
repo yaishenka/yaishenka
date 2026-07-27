@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://yaishenka.github.io/yaishenka/"><img src="https://img.shields.io/badge/About_me-page-2ea44f?style=flat" alt="About me"/></a>
+  <a href="https://me.yaishenka.site/"><img src="https://img.shields.io/badge/About_me-me.yaishenka.site-2ea44f?style=flat" alt="About me"/></a>
   <a href="https://yaishenka.github.io/yaishenka-cv/"><img src="https://img.shields.io/badge/CV-r%C3%A9sum%C3%A9-blue?style=flat" alt="CV"/></a>
   <a href="mailto:gagarinovdaniil@gmail.com"><img src="https://img.shields.io/badge/Email-contact-red?style=flat" alt="Email"/></a>
 </p>
@@ -28,4 +28,4 @@
 
 ---
 
-<p align="center"><i>More about me — <a href="https://yaishenka.github.io/yaishenka/">yaishenka.github.io</a> &nbsp;·&nbsp; CV — <a href="https://yaishenka.github.io/yaishenka-cv/">yaishenka-cv</a></i></p>
+<p align="center"><i>More about me — <a href="https://me.yaishenka.site/">me.yaishenka.site</a> &nbsp;·&nbsp; CV — <a href="https://yaishenka.github.io/yaishenka-cv/">yaishenka-cv</a></i></p>
